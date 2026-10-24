@@ -6,9 +6,9 @@
   "description": "Machete AI Studio: Local Video and Image generation (Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI and TV QR dashboard.",
   "license": "GPL-3.0",
   "author": "VenezuelanBiggie24 & Darkatek7",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "source_repo": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID",
-  "artifact_url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.9.8/PPSA99699.zip",
-  "sha256": "cae4ddcd8f79fe8811541d5173b0688eaaf1d3efbf0f7d8daf7f3490059b017a",
-  "icon_url": "https://raw.githubusercontent.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/v0.9.8/ps5/app/sce_sys/icon0.png"
+  "artifact_url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v0.9.9/PPSA99699.zip",
+  "sha256": "2f46a3480e7b45412c0b9dd125ba64b62ecb1c3ee387261b9357a92406072180",
+  "icon_url": "https://raw.githubusercontent.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/v0.9.9/ps5/app/sce_sys/icon0.png"
 }
