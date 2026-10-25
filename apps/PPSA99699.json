@@ -6,9 +6,9 @@
   "description": "Machete AI Studio: Local Video, Image and Audio generation (Sana, Kokoro, SD 3.5, Wan 2.2, LTX-Video, SDXL, FLUX) on PS5 GPU with Web UI, DualSense controls and TV dashboard.",
   "license": "GPL-3.0",
   "author": "VenezuelanBiggie24 & Darkatek7",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "source_repo": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID",
-  "artifact_url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.2.0/PPSA99699.zip",
-  "sha256": "f63db774b80e445c8a9bcda99efeca8af8bdf3ba88b5805101c5f76b9964d8c3",
-  "icon_url": "https://raw.githubusercontent.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/v1.2.0/ps5/app/sce_sys/icon0.png"
+  "artifact_url": "https://github.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/releases/download/v1.2.1/PPSA99699.zip",
+  "sha256": "5e331b1f4bcab5dbc16d0b1228d63a0b1ef3698fc7646ab080767aef8059f282",
+  "icon_url": "https://raw.githubusercontent.com/VenezuelanBiggie24/Machete-PS5SD-IMG-and-VID/v1.2.1/ps5/app/sce_sys/icon0.png"
 }
